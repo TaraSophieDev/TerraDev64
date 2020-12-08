@@ -1,9 +1,8 @@
 ## About me
 
-**Twitter:** [@TerraDev64](https://twitter.com/TerraDev64)
-
 - 🔭 I’m currently working on Deep Relics
 - 🌱 I’m currently learning:  [godot](https://github.com/godotengine/godot) and [rust](https://github.com/rust-lang/rust)
+- 🐦Twitter: [@TerraDev64](https://twitter.com/TerraDev64)
 - 📫 How to reach me: terradev64@gmail.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
