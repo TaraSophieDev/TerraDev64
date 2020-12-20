@@ -6,7 +6,7 @@
 - 📫 How to reach me: terradev64@gmail.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerraDev64&hide=&layout=compact&theme=dracula&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerraDev64&hide=ShaderLab&layout=compact&theme=dracula&show_icons=true&count_private=true" />
 </a>
 <br /><br /><br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
