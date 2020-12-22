@@ -1,6 +1,8 @@
 ## About me
 
-- 🔭 I’m currently working on Deep Relics
+I am a apprentice working in a Software Development Company to learn Programming and Webdev, in my freetime I develop Games with the Godot Engine, and learn programming languages like Rust.
+
+- 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning:  [godot](https://github.com/godotengine/godot) and [rust](https://github.com/rust-lang/rust)
 - 🐦Twitter: [@TerraDev64](https://twitter.com/TerraDev64)
 - 📫 How to reach me: terradev64@gmail.com
