@@ -6,7 +6,7 @@ I am a apprentice working in a Software Development Company to learn Programming
 - 🐦Twitter: [@TerraDev64](https://twitter.com/TerraDev64)
 - 📫 How to reach me: terradev64@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TerraDev64)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 👯 I’m looking to collaborate on ...
