@@ -6,5 +6,3 @@ I am a apprentice working in a Software Development Company to learn Programming
 - 🐦Twitter: [@TerraDev64](https://twitter.com/TerraDev64)
 - 📫 How to reach me: terradev64@gmail.com
 
-<a rel="me" href="https://mastodon.gamedev.place/@TerraDev64">Mastodon</a>
-
