@@ -4,5 +4,6 @@ I am a apprentice working in a Software Development Company to learn Programming
 
 - 🔭 I’m currently working on cool projects
 - 🐦Twitter: [@TerraDev64](https://twitter.com/TerraDev64)
+- Mastodon: [@TerraDev64@Mastodon.Gamedev.Place](<a rel="me" href="https://mastodon.gamedev.place/@TerraDev64"/>)
 - 📫 How to reach me: terradev64@gmail.com
 
