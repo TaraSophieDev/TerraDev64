@@ -1,6 +1,6 @@
 ## About me
 
-I am a apprentice working in a Software Development Company to learn Programming and Webdev, in my freetime I develop Games with the Godot Engine, and learn programming languages like Rust.
+I am a professional Software Developer, in my freetime I develop Games with the Godot Engine, and learn programming languages like Rust.
 
 - 🔭 I’m currently working on cool projects
 - 🐦Twitter: [@TerraDev64](https://twitter.com/TerraDev64)
